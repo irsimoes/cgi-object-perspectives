@@ -2,6 +2,8 @@
 
 Perspective and shading study done on multiple objects. 
 
+![alt text](https://i.imgur.com/AaYRMEx.gif "Preview")
+
 ## Commands
   * mouse wheel - scale
   * f - fill with color
