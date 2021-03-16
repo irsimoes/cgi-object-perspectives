@@ -1,12 +1,5 @@
 # cgi-object-perspectives
 
-
-'Mouse Wheel' - Change the scale
-'W' - Wireframe Mode
-'F' - Filled Mode
-'Z' - Toggle Z-Buffer
-'B' - Toggle Culling
-
 ## Commands
   * mouse wheel - scale
   * f - fill with color
