@@ -1,5 +1,7 @@
 # cgi-object-perspectives
 
+Perspective and shading study done on multiple objects. 
+
 ## Commands
   * mouse wheel - scale
   * f - fill with color
